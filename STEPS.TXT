@@ -1,0 +1,5 @@
+Steps:
+1) Data Cleaning- Removing duplicates, Null values, Setting data type, Correcting row values, etc.
+2) Data Preparation- Grouping Data (Grouping by Age), Modifyng Data (Extracting month from date), Establishing relationship between columns, etc.
+3) Data Analysis
+4) Provide Insights
